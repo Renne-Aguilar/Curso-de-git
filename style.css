@@ -9,4 +9,6 @@ body {
 #header {
     background-color: black;
     color: white;
+    height: 65px;
+    font-size: larger;
 }
